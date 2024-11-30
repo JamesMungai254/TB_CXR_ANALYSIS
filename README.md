@@ -25,7 +25,7 @@ pip install -r requirements.txt
 ## Usage
 1. Clone this repository:
     ```bash
-    git clone https://github.com/JamesMungai254/TB_CXR_ANALYSIS
+    git clone https://github.com/JamesMungai254/TB_CXR_ANALYSIS.git
     ```
 2. Navigate to the project directory:
     ```bash
