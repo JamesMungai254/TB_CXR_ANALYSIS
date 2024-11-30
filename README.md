@@ -29,7 +29,7 @@ pip install -r requirements.txt
     ```
 2. Navigate to the project directory:
     ```bash
-    cd PowerHacks/TB
+    cd TB_CXR_ANALYSIS/
     ```
 3. Open the Jupyter Notebook:
     ```bash
